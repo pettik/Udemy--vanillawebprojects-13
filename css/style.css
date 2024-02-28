@@ -77,7 +77,14 @@ select:focus{
   padding: 8px;
   margin: 15px 0;
   width: 100%;
-  height: 150px;
+  height: 40px;
+}
+
+.text-box textarea{
+  width: 100%;
+  min-height: 150px;
+  padding:20px;
+  margin-bottom: 1rem;
 }
 
 .text-box .btn {
@@ -143,5 +150,9 @@ main {
 @media (max-width: 500px) {
   main {
     grid-template-columns: 1fr;
+  }
+
+  .text-box{
+    width:90%;
   }
 }

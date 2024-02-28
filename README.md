@@ -21,7 +21,7 @@ A text to speech app for non-verbal people. Pre-made buttons and custom text spe
     <img src="./img/13_preview.png" alt="Original preview">
 </div>
 
-<!-- ## My solution preview
+## My solution preview
 
 <div style="text-align:center;display:flex; flex-direction:column;justify-content:center;" >
     <img style="margin-bottom:10px" src="./img/my-solution-preview.png" alt="My solution preview">
@@ -29,7 +29,7 @@ A text to speech app for non-verbal people. Pre-made buttons and custom text spe
 
 ## My solution features
 
-- same as an original -->
+- same as an original
 
 # Author
 
